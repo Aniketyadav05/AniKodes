@@ -1,6 +1,6 @@
 import React from 'react'
 import {Elements, ElementText,Btn} from "./index"
-import { third,first } from '../assets'
+import { first } from '../assets'
 const Upcoming = () => {
   return (
     <div className=' bg-[#C4BCB3] flex flex-row justify-between items-center w-[100%] h-[130vh] pt-12 px-4 pb-6'>

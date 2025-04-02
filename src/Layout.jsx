@@ -1,7 +1,7 @@
 import React from 'react'
 import { Scroll,Header,Footer,Loader } from './Components/index'
 import { Outlet } from 'react-router-dom'
-import { useLocation } from 'react-router-dom';
+
 
 const Layout = () => {
   return (
