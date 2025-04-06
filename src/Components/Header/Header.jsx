@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import 'remixicon/fonts/remixicon.css'
-import {motion, AnimatePresence} from 'framer-motion'
+import { AnimatePresence} from 'framer-motion'
 import { useLocoScroll } from '../Scroll';
 import { NavLink, Link } from 'react-router-dom';
 const Header = () => {
